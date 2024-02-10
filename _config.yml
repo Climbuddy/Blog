@@ -1,9 +1,10 @@
 title: Climbuddy Blog
+author: Tomáš & Matěj
 email: contact@climbuddy.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Updates / articles about what powers Climbuddy.com.
+  Updates / articles about Climbuddy.com.
 baseurl: ""
-url: "blog.climbuddy.com"
+url: "https://blog.climbuddy.com"
 twitter_username: Climbuddy
 github_username:  Climbuddy
 
@@ -11,3 +12,5 @@ github_username:  Climbuddy
 theme: minima
 plugins:
   - jekyll-feed
+
+permalink: /:title/
