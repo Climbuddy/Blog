@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+
+figure {
+  img {
+    filter: drop-shadow(5px 5px 5px #222);
+    max-width: 80%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0 auto;
+  }
+
+  text-align: center;
+}
