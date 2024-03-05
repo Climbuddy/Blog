@@ -14,6 +14,7 @@ rss: RSS
 theme: minima
 plugins:
   - jekyll-feed
+  - jektex
 
 permalink: /:title/
 

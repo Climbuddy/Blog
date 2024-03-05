@@ -9,4 +9,5 @@ The goal is to provide monthly(ish) updates about the [climbuddy.com](https://cl
 
 If there is anything you're interested in regarding Climbuddy (or anything else for that matter), send us an email and we'll be happy to chat 🙂.
 
+{: .right}
 _Team Climbuddy_

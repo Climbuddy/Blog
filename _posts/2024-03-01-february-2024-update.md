@@ -20,4 +20,5 @@ We're also in the process of applying for the [EXIST-Gründungsstipendium](https
 
 Stay tuned for updates!
 
+{: .right}
 _Team Climbuddy_
