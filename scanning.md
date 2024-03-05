@@ -65,7 +65,7 @@ If you're having issues with taking clear images, you can try to **increase the 
 
 To summarize, a good dataset for image reconstruction should
 
-- **cover the entire object** from **multiple angles**,
+- **cover the entire wall** from **multiple angles**,
 - have **good overlaps** between images and
 - limit **blur** as much as possible
 
