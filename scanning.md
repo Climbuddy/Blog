@@ -26,7 +26,7 @@ A good approach for taking images is to start on one side of the wall and do the
 
 This approach makes sure that you cover the entire wall and that all parts have a good number of angles they are captured from, making the reconstructed geometry detailed and correct.
 
-TODO: sample video here (from the POV of the mobile phone)
+<!-- TODO: sample video here (from the POV of the mobile phone) -->
 
 There are two things you must keep in mind when taking the images: **overlap** and **blur**.
 
