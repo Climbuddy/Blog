@@ -10,7 +10,7 @@ It is generally applicable for any type of 3D reconstruction, but all of the exa
 ## Requirements
 
 To effectively capture images for 3D scanning, you'll need a decent **mobile phone** or camera capable of producing high-resolution images.
-It's recommended that the images have dimensions of at least \(2000 \times 1000\) pixels to ensure detail in the final reconstruction.
+It's recommended that the images have dimensions of at least **2000×1000 pixels** to ensure detail in the final reconstruction.
 
 It's also strongly advised to **use raw images**, since it bypasses kind of retouch/enhance funtionality, which is prominent in most recent mobile devices and reduces the quality of the 3D reconstruction.
 This can generally be done in the following ways:
