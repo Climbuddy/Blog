@@ -3,11 +3,15 @@
 
 figure {
   img {
-    filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #444);
     max-width: 80%;
     padding-top: 10px;
     padding-bottom: 10px;
     margin: 0 auto;
+
+    @media (prefers-color-scheme: dark) {
+      filter: drop-shadow(5px 5px 5px #000);
+    }
   }
 
   text-align: center;
@@ -30,6 +34,11 @@ p {
   display: inline;
   height: 1.25em;
   vertical-align: sub;
+
+
+  @media (prefers-color-scheme: dark) {
+    filter: invert(100%);
+  }
 }
 
 .small-space {
