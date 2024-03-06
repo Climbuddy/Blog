@@ -49,7 +49,7 @@ While it is not necessary to follow this rule for _all subsequent images_, it is
 
 ### Blur
 
-Having clear images is another important part crucial for accurate 3D reconstruction.
+Having clear images is another part crucial for accurate 3D reconstruction.
 Clear images provide distinct features that algorithms use to calculate depth and camera positions, which cannot be inferred from blurry images.
 
 <figure class="center standout">
