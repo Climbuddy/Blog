@@ -2,7 +2,7 @@
 
 
 figure {
-  img {
+  img, video {
     filter: drop-shadow(5px 5px 5px #444);
     max-width: 80%;
     padding-top: 10px;
@@ -35,7 +35,6 @@ p {
   height: 1.25em;
   vertical-align: sub;
 
-
   @media (prefers-color-scheme: dark) {
     filter: invert(100%);
   }
@@ -43,4 +42,12 @@ p {
 
 .small-space {
   margin: 1px;
+}
+
+.half-width {
+  max-width: 40%;
+
+  @include media-query($on-palm) {
+    max-width: 80%;
+  }
 }

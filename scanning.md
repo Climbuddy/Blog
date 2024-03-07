@@ -17,18 +17,26 @@ This can generally be done in the following ways:
 - for *Android*, [set format to RAW](https://www.androidpolice.com/android-capture-edit-raw-photos-guide/)
 - for *iPhone*, [enable ProRAW](https://support.apple.com/en-us/HT211965)
 
-## Scanning
+## Approach
 
 A good approach for taking images is to start on one side of the wall and do the following:
 1. turning left-to-right (or right-to-left), **take overlapping images** of the wall
-2. **move one step** along the wall
+2. **move one/two steps** along the wall
 3. **repeat** until the entire wall is captured
 
 This approach makes sure that you cover the entire wall and that all parts have a good number of angles they are captured from, making the reconstructed geometry detailed and correct.
 
-<!-- TODO: sample video here (from the POV of the mobile phone) -->
+<figure class="center standout">
+  <div>
+  <video class="half-width" controls>
+    <source src="/assets/scanning/approach.mp4" type="video/mp4" />
+  </video>
+  </div>
+  <figcaption>The video of taking images using the approach described above.</figcaption>
+</figure>
 
-There are two things you must keep in mind when taking the images: **overlap** and **blur**.
+With this approach in mind, there are two things you have to pay attention to: **overlap** between images and their **blur**.
+These are described in the sections below, but generally boil down to taking _more_ images than you think are necessary and _not moving_ when you are taking an image.
 
 ### Ovelap
 
@@ -54,7 +62,7 @@ Clear images provide distinct features that algorithms use to calculate depth an
 
 <figure class="center standout">
   <img src="/assets/scanning/good-bad-quality.webp" alt="TODO">
-  <figcaption>An example of <strong>good</strong> (left) and <strong>bad</strong> (right) image quality – blurry images cannot be used.</figcaption>
+  <figcaption>Examples of <strong>good</strong> (left) and <strong>bad</strong> (right) image quality – blurry images cannot be used.</figcaption>
 </figure>
 
 Having a _few blurry images is okay_ since the reconstruction software can automatically detect this (i.e. it is not necessary to go through the images and manually filter them out), but it should be an exception and not the rule.
