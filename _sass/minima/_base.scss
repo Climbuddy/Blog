@@ -232,7 +232,7 @@ pre {
     display: inline-block;
     fill: #{$grey-color};
     padding-right: 5px;
-    vertical-align: text-top;
+    vertical-align: sub;
 
     @media (prefers-color-scheme: dark) {
       fill: #{$dt-grey-color};
