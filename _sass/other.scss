@@ -51,3 +51,13 @@ p {
     max-width: 80%;
   }
 }
+
+h1.post-title, h2.post-title, h3.post-title {
+  font-variant-caps: small-caps;
+}
+
+.post-content {
+  h1, h2, h3, h4, h5, h6 {
+    font-variant-caps: small-caps;
+  }
+}
