@@ -7,6 +7,11 @@ permalink: /scanning/
 The following page contains a brief overview of **how to take good images** of the wall/boulders so that Climbuddy can generate their 3D models.
 It is generally applicable for any type of 3D reconstruction, but all of the examples will be specific to Climbuddy.
 
+<figure class="center standout">
+  <img src="/assets/scanning/model.webp" alt="An image of a 3D model." class="almost-full-width">
+  <figcaption>A sample 3D model of a climbing gym reconstructed from images (interactable at <a href="https://www.climbuddy.com">climbuddy.com</a>).</figcaption>
+</figure>
+
 ## Requirements
 
 To effectively capture images for 3D scanning, you'll need a decent **mobile phone** or camera capable of producing high-resolution images.

@@ -1,8 +1,10 @@
 title: Climbuddy Blog
 author: Team Climbuddy
 email: contact@climbuddy.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Updates / articles about Climbuddy.com.
+
+description: Updates / articles about Climbuddy.com.
+html-description: Updates / articles about <a href="https://climbuddy.com">Climbuddy.com</a>.
+
 baseurl: ""
 url: "https://blog.climbuddy.com"
 twitter_username: Climbuddy
