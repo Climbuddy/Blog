@@ -4,7 +4,7 @@ title: Scanning
 permalink: /scanning/
 ---
 
-The following page contains a brief overview of **how to take good images** of the wall/boulders so that Climbuddy can reconstruct them.
+The following page contains a brief overview of **how to take good images** of the wall/boulders so that Climbuddy can generate their 3D models.
 It is generally applicable for any type of 3D reconstruction, but all of the examples will be specific to Climbuddy.
 
 ## Requirements
@@ -15,7 +15,7 @@ It's recommended that the images have dimensions of at least **2000×1000 pixels
 It's also strongly advised to **use raw images**, since it bypasses kind of retouch/enhance funtionality, which is prominent in most recent mobile devices and reduces the quality of the 3D reconstruction.
 This can generally be done in the following ways:
 - for *Android*, [set format to RAW](https://www.androidpolice.com/android-capture-edit-raw-photos-guide/)
-- for *iPhone*, [enable ProRAW](https://support.apple.com/en-us/HT211965)
+- for *iOS*, [enable ProRAW](https://support.apple.com/en-us/HT211965)
 
 ## General Approach
 
