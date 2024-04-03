@@ -28,12 +28,15 @@ A good general approach for taking images is to start on one side of the wall an
 1. turning left-to-right (or right-to-left), **take overlapping images** of the wall
 2. **move one/two steps** along the wall
 3. **repeat** until the entire wall is captured
+4. **do it again** in the **opposite direction** from a **different distance**
 
 This approach makes sure that you cover the entire wall and that all parts have a good number of angles they are captured from, making the reconstructed geometry detailed and correct.
+While step (4) is optional, it will greatly improve the model quality and is recommended.
+
 
 <figure class="center standout">
   <div>
-  <video class="half-width" controls>
+  <video poster="/assets/scanning/approach.webp" class="half-width" controls>
     <source src="/assets/scanning/approach.mp4" type="video/mp4" />
   </video>
   </div>
