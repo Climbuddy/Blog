@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "February 2024 Update"
+category: update
 ---
 
 Hey there!

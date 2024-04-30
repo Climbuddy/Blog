@@ -24,9 +24,9 @@ $dt-text-color:       #ddd !default;
 $dt-background-color: #121212 !default;
 $dt-brand-color:      #2a7ae2 !default;
 
-$dt-grey-color:       #c2c2c2 !default;
-$dt-grey-color-light: lighten($dt-grey-color, 40%) !default;
-$dt-grey-color-dark:  darken($dt-grey-color, 25%) !default;
+$dt-grey-color:       #828282 !default;
+$dt-grey-color-light: lighten(#c2c2c2, 40%) !default;
+$dt-grey-color-dark:  darken(#c2c2c2, 25%) !default;
 
 
 $table-text-align: left !default;

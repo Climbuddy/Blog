@@ -9,7 +9,7 @@ It is generally applicable for any type of 3D reconstruction, but all of the exa
 
 <figure class="center standout">
   <img src="/assets/scanning/model.webp" alt="An image of a 3D model." class="almost-full-width">
-  <figcaption>A sample 3D model of a climbing gym reconstructed from images (interactable at <a href="https://www.climbuddy.com">climbuddy.com</a>).</figcaption>
+  <figcaption>A sample 3D model of a climbing gym reconstructed from images (available at <strong><a href="https://www.climbuddy.com">https://climbuddy.com</a></strong>).</figcaption>
 </figure>
 
 ## Requirements
