@@ -103,3 +103,42 @@ h1.post-title, h2.post-title, h3.post-title {
   }
 }
 
+.tight {
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.roadmap-minor-item {
+  opacity: 0.25;
+}
+
+.opaque {
+  opacity: 0.5;
+}
+
+.roadmap-current {
+  background: #ddd;
+  padding: 1rem;
+  border-radius: 1rem;
+
+  @media (prefers-color-scheme: dark) {
+    background: #252525;
+  }
+}
+
+.spacer {
+  padding-bottom: 0.75em;
+}
+
+.large-spacer {
+  padding-bottom: 2em;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+hr {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
