@@ -57,12 +57,11 @@ _Released 1. 6. 2024_ · **[live on https://climbuddy.com](https://climbuddy.com
 _Expected 8. 2024_
 
 <ul class="fa-ul  tight">
-  <li><i class="fa-li fa fa-clock-rotate-left"></i>View older boulders</li>
   <li><i class="fa-li fa fa-user-clock"></i>Temporary user</li>
   <li><i class="fa-li fa fa-user-shield"></i>User email & gym verification</li>
   <div class="spacer"></div>
-  <li><i class="fa-li fa roadmap-minor-item fa-video"></i>Smooth camera movement</li>
   <li><i class="fa-li fa roadmap-minor-item fa-key"></i>Forgottable & changeable password</li>
+  <li><i class="fa-li fa roadmap-minor-item fa-repeat"></i>Repeat sends</li>
 </ul>
 
 <div class="large-spacer"></div>
@@ -82,7 +81,11 @@ _Expected early 2025_
   <li><i class="fa-li fa fa-champagne-glasses"></i><strong>Official release!</strong></li>
   <li><i class="fa-li fa fa-mountain"></i>Support for lead climbing</li>
   <li><i class="fa-li fa fa-calendar-days"></i>Competitions & Events</li>
+  <li><i class="fa-li fa fa-clock-rotate-left"></i>View older boulders</li>
   <li><i class="fa-li fa fa-user-tie"></i>Improved admin UI</li>
   <li><i class="fa-li fa fa-users"></i>Open registration for gyms</li>
-  <li><i class="fa-li fa fa-code"></i>Open-source frontend</li>
+  <div class="spacer"></div>
+  <li><i class="fa-li fa roadmap-minor-item fa-code"></i>Open-source frontend</li>
+  <li><i class="fa-li fa roadmap-minor-item fa-video"></i>Smooth camera movement</li>
+  <li><i class="fa-li fa roadmap-minor-item fa-filter"></i>Filtering routes</li>
 </ul>
