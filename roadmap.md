@@ -54,23 +54,35 @@ _Released 1. 6. 2024_ · **[live on https://climbuddy.com](https://climbuddy.com
 
 {: .tight}
 ### Future `v0.3`
-_Expected 7. 2024_
+_Expected 8. 2024_
 
 <ul class="fa-ul  tight">
   <li><i class="fa-li fa fa-clock-rotate-left"></i>View older boulders</li>
+  <li><i class="fa-li fa fa-user-clock"></i>Temporary user</li>
   <li><i class="fa-li fa fa-user-shield"></i>User email & gym verification</li>
-  <li><i class="fa-li fa fa-key"></i>Forgot password & password update</li>
   <div class="spacer"></div>
-  <li><i class="fa-li fa roadmap-minor-item fa-user-clock"></i>Temporary user</li>
+  <li><i class="fa-li fa roadmap-minor-item fa-video"></i>Smooth camera movement</li>
+  <li><i class="fa-li fa roadmap-minor-item fa-key"></i>Forgottable & changeable password</li>
 </ul>
 
 <div class="large-spacer"></div>
+
+{: .opaque}
+⋮<br>
+There will likely be more minor versions here.<br>
+⋮
+<div class="large-spacer"></div>
+
 
 {: .tight}
 ### Future `v1.0`
 _Expected early 2025_
 
 <ul class="fa-ul  tight">
-  <li><i class="fa-li fa fa-champagne-glasses"></i><strong>Public release!</strong></li>
-  <li><i class="fa-li fa fa-users"></i>Gym registration open</li>
+  <li><i class="fa-li fa fa-champagne-glasses"></i><strong>Official release!</strong></li>
+  <li><i class="fa-li fa fa-mountain"></i>Support for lead climbing</li>
+  <li><i class="fa-li fa fa-calendar-days"></i>Competitions & Events</li>
+  <li><i class="fa-li fa fa-user-tie"></i>Improved admin UI</li>
+  <li><i class="fa-li fa fa-users"></i>Open registration for gyms</li>
+  <li><i class="fa-li fa fa-code"></i>Open-source frontend</li>
 </ul>
