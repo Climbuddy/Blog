@@ -36,7 +36,7 @@ _Released 10. 5. 2024_
 
 {: .tight}
 ### Current `v0.2`
-_Released 1. 6. 2024_ · **[live on https://climbuddy.com](https://climbuddy.com/)**
+_Released 1. 6. 2024_ · [live on **https://climbuddy.com**](https://climbuddy.com/)
 
 <ul class="fa-ul tight">
   <li><i class="fa-li fa fa-user"></i>Username, profile picture</li>
@@ -58,11 +58,11 @@ _Expected 8. 2024_
 
 <ul class="fa-ul  tight">
   <li><i class="fa-li fa fa-user-clock"></i>Temporary user</li>
-  <li><i class="fa-li fa fa-user-shield"></i>User email & gym verification</li>
+  <li><i class="fa-li fa fa-user-shield"></i>Email verification</li>
+  <li><i class="fa-li fa fa-repeat"></i>Repeat sends</li>
   <div class="spacer"></div>
   <li><i class="fa-li fa roadmap-minor-item fa-key"></i>Forgottable & changeable password</li>
   <li><i class="fa-li fa roadmap-minor-item fa-user-minus"></i>Delete account</li>
-  <li><i class="fa-li fa roadmap-minor-item fa-repeat"></i>Repeat sends</li>
 </ul>
 
 <div class="large-spacer"></div>
@@ -88,6 +88,7 @@ _Expected early 2025_
   <div class="spacer"></div>
   <li><i class="fa-li fa roadmap-minor-item fa-code"></i>Open-source frontend</li>
   <li><i class="fa-li fa roadmap-minor-item fa-video"></i>Smooth camera movement</li>
+  <li><i class="fa-li fa roadmap-minor-item fa-user-shield"></i>User gym verification</li>
   <li><i class="fa-li fa roadmap-minor-item fa-filter"></i>Filtering routes</li>
   <li><i class="fa-li fa roadmap-minor-item fa-hand-pointer"></i>User-defined routes</li>
 </ul>
