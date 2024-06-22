@@ -80,6 +80,7 @@ _Expected early 2025_
 
 <ul class="fa-ul  tight">
   <li><i class="fa-li fa fa-champagne-glasses"></i><strong>Official release!</strong></li>
+  <div class="spacer"></div>
   <li><i class="fa-li fa fa-mountain"></i>Support for lead climbing</li>
   <li><i class="fa-li fa fa-calendar-days"></i>Competitions & Events</li>
   <li><i class="fa-li fa fa-clock-rotate-left"></i>View older boulders</li>
