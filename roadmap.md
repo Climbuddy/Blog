@@ -58,7 +58,7 @@ _Expected 8. 2024_
 
 <ul class="fa-ul  tight">
   <li><i class="fa-li fa fa-user-clock"></i>Temporary user</li>
-  <li><i class="fa-li fa fa-user-shield"></i>Email verification</li>
+  <li><i class="fa-li fa fa-user-shield"></i>Email & gym verification</li>
   <li><i class="fa-li fa fa-repeat"></i>Repeat sends</li>
   <div class="spacer"></div>
   <li><i class="fa-li fa roadmap-minor-item fa-key"></i>Forgottable & changeable password</li>
@@ -88,7 +88,6 @@ _Expected early 2025_
   <div class="spacer"></div>
   <li><i class="fa-li fa roadmap-minor-item fa-code"></i>Open-source frontend</li>
   <li><i class="fa-li fa roadmap-minor-item fa-video"></i>Smooth camera movement</li>
-  <li><i class="fa-li fa roadmap-minor-item fa-user-shield"></i>User gym verification</li>
   <li><i class="fa-li fa roadmap-minor-item fa-filter"></i>Filtering routes</li>
   <li><i class="fa-li fa roadmap-minor-item fa-hand-pointer"></i>User-defined routes</li>
 </ul>
