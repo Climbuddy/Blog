@@ -14,8 +14,7 @@ There are many features that we would love to implement, but have to carefully p
 <summary><em>Click to view previous versions</em><div class="large-spacer"></div> </summary>
 <div markdown="1">
 
-{: .tight}
-### Old `v0.1`
+<h3 class="tight" id="01">Old <span markdown="1">**v0.1**</span></h3>
 _Released 10. 5. 2024_
 
 <ul class="fa-ul tight">
@@ -34,8 +33,7 @@ _Released 10. 5. 2024_
 
 <div markdown="1" class="roadmap-current">
 
-{: .tight}
-### Current `v0.2`
+<h3 class="tight" id="02">Current <span markdown="1">**v0.2**</span></h3>
 _Released 1. 6. 2024_ · [live on **https://climbuddy.com**](https://climbuddy.com/)
 
 <ul class="fa-ul tight">
@@ -52,17 +50,18 @@ _Released 1. 6. 2024_ · [live on **https://climbuddy.com**](https://climbuddy.c
 
 <div class="large-spacer"></div>
 
-{: .tight}
-### Future `v0.3`
+<h3 class="tight" id="03">Future <span markdown="1">**v0.3**</span></h3>
 _Expected 8. 2024_
 
-<ul class="fa-ul  tight">
+<ul class="fa-ul tight">
   <li><i class="fa-li fa fa-user-clock"></i>Temporary user</li>
   <li><i class="fa-li fa fa-user-shield"></i>Email & gym verification</li>
   <li><i class="fa-li fa fa-repeat"></i>Repeat sends</li>
   <div class="spacer"></div>
   <li><i class="fa-li fa roadmap-minor-item fa-key"></i>Forgottable & changeable password</li>
   <li><i class="fa-li fa roadmap-minor-item fa-user-minus"></i>Delete account</li>
+  <li><i class="fa-li fa roadmap-minor-item fa-list-check"></i>Better progress overview</li>
+  <li><i class="fa-li fa roadmap-minor-item fa-ellipsis"></i>Bugfixes & UI improvements!</li>
 </ul>
 
 <div class="large-spacer"></div>
@@ -71,14 +70,14 @@ _Expected 8. 2024_
 ⋮<br>
 There will likely be more minor versions here.<br>
 ⋮
-<div class="large-spacer"></div>
+
+<div class="spacer"></div>
 
 
-{: .tight}
-### Future `v1.0`
+<h3 class="tight" id="10">Future <span markdown="1">**v1.0**</span></h3>
 _Expected early 2025_
 
-<ul class="fa-ul  tight">
+<ul class="fa-ul tight">
   <li><i class="fa-li fa fa-champagne-glasses"></i><strong>Official release!</strong></li>
   <div class="spacer"></div>
   <li><i class="fa-li fa fa-mountain"></i>Support for lead climbing</li>
@@ -87,6 +86,7 @@ _Expected early 2025_
   <li><i class="fa-li fa fa-user-tie"></i>Improved admin UI</li>
   <li><i class="fa-li fa fa-users"></i>Open registration for gyms</li>
   <div class="spacer"></div>
+  <li><i class="fa-li fa roadmap-minor-item fa-chart-line"></i>Progress graph</li>
   <li><i class="fa-li fa roadmap-minor-item fa-code"></i>Open-source frontend</li>
   <li><i class="fa-li fa roadmap-minor-item fa-video"></i>Smooth camera movement</li>
   <li><i class="fa-li fa roadmap-minor-item fa-filter"></i>Filtering routes</li>

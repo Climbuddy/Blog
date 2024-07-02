@@ -4,7 +4,7 @@
 figure {
   img, video {
     filter: drop-shadow(0px 0px 7px #444);
-    max-width: 80%;
+    max-width: 90%;
     padding-top: 10px;
     padding-bottom: 10px;
     margin: 0 auto;
@@ -56,10 +56,6 @@ p {
   max-width: 100%;
 }
 
-.almost-full-width {
-  max-width: 90%;
-}
-
 h1.post-title, h2.post-title, h3.post-title {
   font-variant-caps: small-caps;
 }
@@ -67,6 +63,7 @@ h1.post-title, h2.post-title, h3.post-title {
 .post-content {
   h1, h2, h3, h4, h5, h6 {
     font-variant-caps: small-caps;
+    padding-top: 15px;
   }
 }
 
@@ -79,6 +76,10 @@ h1.post-title, h2.post-title, h3.post-title {
   // Adds more top spacing
   margin-top: 10px;
   margin-bottom: 5px;
+}
+
+.medium {
+  font-size: 125%;
 }
 
 .large {
@@ -104,6 +105,7 @@ h1.post-title, h2.post-title, h3.post-title {
 }
 
 .tight {
+  padding-top: 0 !important;
   padding-bottom: 0;
   margin-bottom: 0;
 }
@@ -117,7 +119,7 @@ h1.post-title, h2.post-title, h3.post-title {
 }
 
 .roadmap-current {
-  background: #ddd;
+  background: #e5e5e5;
   padding: 1rem;
   border-radius: 1rem;
 

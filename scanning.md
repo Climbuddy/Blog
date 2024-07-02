@@ -8,7 +8,7 @@ The following page contains a brief overview of **how to take good images** of t
 It is generally applicable for any type of 3D reconstruction, but all of the examples will be specific to Climbuddy.
 
 <figure class="center standout">
-  <img src="/assets/scanning/model.webp" alt="An image of a 3D model." class="almost-full-width">
+  <img src="/assets/scanning/model.webp" alt="An image of a 3D model.">
   <figcaption>A sample 3D model of a climbing gym reconstructed from images (available at <strong><a href="https://www.climbuddy.com">https://climbuddy.com</a></strong>).</figcaption>
 </figure>
 
