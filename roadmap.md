@@ -29,12 +29,11 @@ _Released 10. 5. 2024_
 <div class="large-spacer"></div>
 
 </div>
-</details>
 
-<div markdown="1" class="roadmap-current">
+<div markdown="1">
 
-<h3 class="tight" id="02">Current <span markdown="1">**v0.2**</span></h3>
-_Released 1. 6. 2024_ · [live on **https://climbuddy.com**](https://climbuddy.com/)
+<h3 class="tight" id="02">Old <span markdown="1">**v0.2**</span></h3>
+_Released 1. 6. 2024_
 
 <ul class="fa-ul tight">
   <li><i class="fa-li fa fa-user"></i>Username, profile picture</li>
@@ -50,8 +49,12 @@ _Released 1. 6. 2024_ · [live on **https://climbuddy.com**](https://climbuddy.c
 
 <div class="large-spacer"></div>
 
-<h3 class="tight" id="03">Future <span markdown="1">**v0.3**</span></h3>
-_Expected 8. 2024_
+</details>
+
+<div markdown="1" class="roadmap-current">
+
+<h3 class="tight" id="03">Current <span markdown="1">**v0.3**</span></h3>
+_Released 2. 8. 2024_ · [live on **https://climbuddy.com**](https://climbuddy.com/)
 
 <ul class="fa-ul tight">
   <li><i class="fa-li fa fa-user-clock"></i>Temporary user</li>
@@ -63,6 +66,8 @@ _Expected 8. 2024_
   <li><i class="fa-li fa roadmap-minor-item fa-list-check"></i>Better progress overview</li>
   <li><i class="fa-li fa roadmap-minor-item fa-ellipsis"></i>Bugfixes & UI improvements!</li>
 </ul>
+
+</div>
 
 <div class="large-spacer"></div>
 
