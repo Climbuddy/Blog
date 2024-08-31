@@ -17,6 +17,14 @@ figure {
   text-align: center;
 }
 
+.minor-shadow {
+  filter: drop-shadow(0px 0px 3px #aaa);
+
+  @media (prefers-color-scheme: dark) {
+    filter: invert(100%) drop-shadow(0px 0px 3px #333);
+  }
+}
+
 p {
   text-align: justify;
   hyphens: auto;
@@ -28,6 +36,10 @@ p {
 
 .center {
   text-align: center;
+}
+
+figcaption {
+  font-style: italic;
 }
 
 .main-logo {
@@ -143,4 +155,48 @@ h1.post-title, h2.post-title, h3.post-title {
 hr {
   margin-top: 2em;
   margin-bottom: 2em;
+}
+
+.table-container {
+  max-height: 100%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  overflow: auto;
+  margin-bottom: $spacing-unit;
+}
+
+.figures-wrapper {
+  width: 100%; /* Makes the container span the full width of the page */
+  margin-bottom: $spacing-unit;
+}
+
+.figures-container {
+  display: flex;
+  justify-content: space-between; /* Ensures figures are spread out across the container */
+  width: 100%; /* Makes the container span the full width of the page */
+
+  gap: 20px; /* Adds space between the figures */
+  margin-bottom: $spacing-unit / 3;
+}
+
+.figures-container figure {
+  flex-grow: 1; /* Allows figures to grow and take up available space */
+  margin: 0; /* Removes default margin */
+  text-align: center; /* Centers the content of each figure */
+}
+
+.figures-container img {
+  width: 100%; /* Ensures images scale to fit within the figure */
+  height: auto; /* Maintains the aspect ratio of the images */
+  display: block; /* Removes any bottom margin caused by inline-block images */
+  margin: 0 auto; /* Centers the image horizontally within the figure */
+}
+
+.figures-container .center {
+  display: flex;
+  flex-direction: column; /* Ensures caption stays below the image */
+  align-items: center;
 }
