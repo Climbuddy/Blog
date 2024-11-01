@@ -25,6 +25,7 @@ If there is anything you're interested in regarding Climbuddy (or anything else 
 
 | Update/Version | Summary |
 | :-: | :--| :-- |
+| [**`2024-10`**](){: .dead-link} | Thesis work -- no Climbuddy update. |
 | [**`2024-09`**](/september-2024-update/) | YOLO detection + SAM segmentation, mesh segmentation. |
 | [**`2024-08`**](/august-2024-update/) | Hardware upgrade, many benchmarks (SAM, YOLO). |
 | [**`v0.3` 🎉**](/roadmap#03) | Temprary user, email verification, repeat sends, password shenanigans. |
