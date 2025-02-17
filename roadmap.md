@@ -72,10 +72,10 @@ _Released 2. 8. 2024_ · [live on **https://climbuddy.com**](https://climbuddy.c
 <div class="large-spacer"></div>
 
 <h3 class="tight" id="10">Future <span markdown="1">**v0.4**</span></h3>
-_Expected 10. 2024_
+_Expected 3. 2025_
 
 <ul class="fa-ul tight">
-  <li><i class="fa-li fa fa-user-tie"></i>Functional admin UI</li>
+  <li><i class="fa-li fa fa-user-tie"></i>Admin UI & Workflow</li>
   <li><i class="fa-li fa fa-chart-line"></i>User statistics & graphs</li>
 </ul>
 
@@ -90,7 +90,7 @@ There will likely be more minor versions here.<br>
 
 
 <h3 class="tight" id="10">Future <span markdown="1">**v1.0**</span></h3>
-_Expected mid 2025_
+_Expected end 2025_
 
 <ul class="fa-ul tight">
   <li><i class="fa-li fa fa-champagne-glasses"></i><strong>Official release!</strong></li>
@@ -112,7 +112,7 @@ _Expected mid 2025_
 
 
 <h3 class="tight" id="10">Future <span markdown="1">**v2.0**</span></h3>
-_Expected by the end of 2025_
+_Expected by the end of 2026_
 
 <ul class="fa-ul tight">
   <li><i class="fa-li fa fa-mountain"></i>Support for lead climbing</li>
