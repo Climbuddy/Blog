@@ -77,6 +77,9 @@ _Expected 3. 2025_
 <ul class="fa-ul tight">
   <li><i class="fa-li fa fa-user-tie"></i>Admin UI & Workflow</li>
   <li><i class="fa-li fa fa-chart-line"></i>User statistics & graphs</li>
+  <li><i class="fa-li fa fa-language"></i>Localization (Czech, German)</li>
+  <li><i class="fa-li fa fa-file-contract"></i>Terms of Use & Privacy Policy</li>
+  <li><i class="fa-li fa fa-info-circle"></i>Movement Tutorial</li>
 </ul>
 
 <div class="large-spacer"></div>

@@ -25,6 +25,7 @@ If there is anything you're interested in regarding Climbuddy (or anything else 
 
 | Update/Version | Summary |
 | :-: | :--| :-- |
+| [**`2025-02`**](/february-2025-update/) | UI improvements, stable worker. |
 | [**`2025-01`**](){: .dead-link} | Thesis defence -- success 🎉! |
 | [**`2024-12`**](){: .dead-link} | Thesis work -- no Climbuddy update. |
 | [**`2024-11`**](){: .dead-link} | Thesis work -- no Climbuddy update. |
