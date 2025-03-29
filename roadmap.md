@@ -75,11 +75,16 @@ _Released 2. 8. 2024_ · [live on **https://climbuddy.com**](https://climbuddy.c
 _Expected 3. 2025_
 
 <ul class="fa-ul tight">
+  <li><i class="fa-li fa fa-users"></i><strong>Limited registration for gyms!</strong></li>
+  <div class="spacer"></div>
+  <li><i class="fa-li fa fa-plane-arrival"></i>Landing Page</li>
   <li><i class="fa-li fa fa-user-tie"></i>Admin UI & Workflow</li>
   <li><i class="fa-li fa fa-chart-line"></i>User statistics & graphs</li>
   <li><i class="fa-li fa fa-language"></i>Localization (Czech, German)</li>
-  <li><i class="fa-li fa fa-file-contract"></i>Terms of Use & Privacy Policy</li>
-  <li><i class="fa-li fa fa-info-circle"></i>Movement Tutorial</li>
+  <div class="spacer"></div>
+  <li><i class="fa-li fa roadmap-minor-item fa-info-circle"></i>Movement Tutorial</li>
+  <li><i class="fa-li fa roadmap-minor-item fa-file-contract"></i>Terms of Use & Privacy Policy</li>
+  <li><i class="fa-li fa roadmap-minor-item fa-code"></i>Open-source ML models</li>
 </ul>
 
 <div class="large-spacer"></div>
@@ -103,10 +108,10 @@ _Expected end 2025_
   <li><i class="fa-li fa fa-users"></i>Open registration for gyms</li>
   <div class="spacer"></div>
   <li><i class="fa-li fa roadmap-minor-item fa-chart-line"></i>Progress graphs</li>
-  <li><i class="fa-li fa roadmap-minor-item fa-code"></i>Open-source frontend & ML models</li>
+  <li><i class="fa-li fa roadmap-minor-item fa-code"></i>Open-source frontend</li>
   <li><i class="fa-li fa roadmap-minor-item fa-video"></i>Smooth camera movement</li>
   <li><i class="fa-li fa roadmap-minor-item fa-filter"></i>Filtering routes</li>
-  <li><i class="fa-li fa roadmap-minor-item fa-hand-pointer"></i>User-defined routes</li>
+  <li><i class="fa-li fa roadmap-minor-item fa-hand-pointer"></i>User-defined routes & spray wall support</li>
   <li><i class="fa-li fa roadmap-minor-item fa-user-shield"></i>Gym verification</li>
   <li><i class="fa-li fa roadmap-minor-item fa-star"></i>Achievements</li>
 </ul>
