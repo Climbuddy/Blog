@@ -89,6 +89,20 @@ _Expected early 4. 2025_
 
 <div class="large-spacer"></div>
 
+<h3 class="tight" id="10">Future <span markdown="1">**v0.5**</span></h3>
+_Expected 6. 2025_
+
+<ul class="fa-ul tight">
+  <li><i class="fa-li fa fa-hand-pointer"></i>Spray wall support</li>
+  <li><i class="fa-li fa fa-chart-line"></i>User progress statistics</li>
+  <li><i class="fa-li fa fa-bookmark"></i>Improved bookmarks</li>
+  <div class="spacer"></div>
+  <li><i class="fa-li fa roadmap-minor-item fa-info-circle"></i>Notifications</li>
+  <li><i class="fa-li fa roadmap-minor-item fa-palette"></i>Improved UI theme</li>
+</ul>
+
+<div class="large-spacer"></div>
+
 {: .opaque}
 ⋮<br>
 There will likely be more minor versions here.<br>
@@ -107,11 +121,10 @@ _Expected end 2025_
   <li><i class="fa-li fa fa-clock-rotate-left"></i>View older boulders</li>
   <li><i class="fa-li fa fa-users"></i>Open registration for gyms</li>
   <div class="spacer"></div>
-  <li><i class="fa-li fa roadmap-minor-item fa-chart-line"></i>Progress graphs</li>
   <li><i class="fa-li fa roadmap-minor-item fa-code"></i>Open-source frontend</li>
   <li><i class="fa-li fa roadmap-minor-item fa-video"></i>Smooth camera movement</li>
   <li><i class="fa-li fa roadmap-minor-item fa-filter"></i>Filtering routes</li>
-  <li><i class="fa-li fa roadmap-minor-item fa-hand-pointer"></i>User-defined routes & spray wall support</li>
+  <li><i class="fa-li fa roadmap-minor-item fa-hand-pointer"></i>User-defined routes</li>
   <li><i class="fa-li fa roadmap-minor-item fa-user-shield"></i>Gym verification</li>
   <li><i class="fa-li fa roadmap-minor-item fa-star"></i>Achievements</li>
 </ul>
