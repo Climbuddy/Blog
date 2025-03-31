@@ -71,11 +71,11 @@ _Released 2. 8. 2024_ · [live on **https://climbuddy.com**](https://climbuddy.c
 
 <div class="large-spacer"></div>
 
-<h3 class="tight" id="10">Future <span markdown="1">**v0.4**</span></h3>
+<h3 class="tight" id="04">Future <span markdown="1">**v0.4**</span></h3>
 _Expected early 4. 2025_
 
 <ul class="fa-ul tight">
-  <li><i class="fa-li fa fa-users"></i><strong>Limited registration for gyms!</strong></li>
+  <li><i class="fa-li fa fa-users"></i><strong>Beta release (limited registration for gyms)!</strong></li>
   <div class="spacer"></div>
   <li><i class="fa-li fa fa-plane-arrival"></i>Landing Page</li>
   <li><i class="fa-li fa fa-user-tie"></i>Admin UI & Workflow</li>
@@ -85,11 +85,12 @@ _Expected early 4. 2025_
   <li><i class="fa-li fa roadmap-minor-item fa-info-circle"></i>Movement Tutorial</li>
   <li><i class="fa-li fa roadmap-minor-item fa-file-contract"></i>Terms of Use & Privacy Policy</li>
   <li><i class="fa-li fa roadmap-minor-item fa-code"></i>Open-source ML models</li>
+  <li><i class="fa-li fa roadmap-minor-item fa-tape"></i>Grades & Circuits</li>
 </ul>
 
 <div class="large-spacer"></div>
 
-<h3 class="tight" id="10">Future <span markdown="1">**v0.5**</span></h3>
+<h3 class="tight" id="05">Future <span markdown="1">**v0.5**</span></h3>
 _Expected 6. 2025_
 
 <ul class="fa-ul tight">
