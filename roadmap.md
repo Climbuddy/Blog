@@ -72,7 +72,7 @@ _Released 2. 8. 2024_ · [live on **https://climbuddy.com**](https://climbuddy.c
 <div class="large-spacer"></div>
 
 <h3 class="tight" id="10">Future <span markdown="1">**v0.4**</span></h3>
-_Expected 3. 2025_
+_Expected early 4. 2025_
 
 <ul class="fa-ul tight">
   <li><i class="fa-li fa fa-users"></i><strong>Limited registration for gyms!</strong></li>
