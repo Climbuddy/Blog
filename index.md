@@ -11,20 +11,11 @@ If there is anything you're interested in regarding Climbuddy (or anything else 
 
 <div class="spacer"></div>
 
-<!--
-<div class="table-container" markdown="1">
-
-|  <i class="fa-solid fa-calendar"></i>   | `1.` | `2.` | `3.` | `4.` | `5.` | `6.` | `7.` | `8.` | `9.` | `10.` | `11.` | `12.` |
-| :-: | :-:| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| **`2024`** | ╱ | **[<i class="fa-solid fa-link"></i>](/february-2024-update/)** | **[<i class="fa-solid fa-link"></i>](/march-2024-update/)** | **[<i class="fa-solid fa-link"></i>](/april-2024-update/)** | **[<i class="fa-solid fa-link"></i>](/may-2024-update/)** | **[<i class="fa-solid fa-link"></i>](/june-2024-update/)** | **[<i class="fa-solid fa-link"></i>](/july-2024-update/)** | **[<i class="fa-solid fa-link"></i>](/august-2024-update/)** | <i class="fa-solid fa-screwdriver-wrench"></i> | … | … | … |
-
-</div>
--->
-
 <div class="table-container" markdown="1">
 
 | Update/Version | Summary |
 | :-: | :--| :-- |
+| [**`2025-03`**](/march-2025-update/) | Landing page, proposal UI. |
 | [**`2025-02`**](/february-2025-update/) | UI improvements, stable worker. |
 | [**`2025-01`**](){: .dead-link} | Thesis defence -- success 🎉! |
 | [**`2024-12`**](){: .dead-link} | Thesis work -- no Climbuddy update. |
