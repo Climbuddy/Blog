@@ -99,6 +99,7 @@ _Expected 6. 2025_
   <li><i class="fa-li fa fa-bookmark"></i>Improved bookmarks</li>
   <div class="spacer"></div>
   <li><i class="fa-li fa roadmap-minor-item fa-info-circle"></i>Notifications</li>
+  <li><i class="fa-li fa roadmap-minor-item fa-filter"></i>Filtering routes</li>
   <li><i class="fa-li fa roadmap-minor-item fa-palette"></i>Improved UI theme</li>
 </ul>
 
@@ -124,7 +125,6 @@ _Expected end 2025_
   <div class="spacer"></div>
   <li><i class="fa-li fa roadmap-minor-item fa-code"></i>Open-source frontend</li>
   <li><i class="fa-li fa roadmap-minor-item fa-video"></i>Smooth camera movement</li>
-  <li><i class="fa-li fa roadmap-minor-item fa-filter"></i>Filtering routes</li>
   <li><i class="fa-li fa roadmap-minor-item fa-hand-pointer"></i>User-defined routes</li>
   <li><i class="fa-li fa roadmap-minor-item fa-user-shield"></i>Gym verification</li>
   <li><i class="fa-li fa roadmap-minor-item fa-star"></i>Achievements</li>
