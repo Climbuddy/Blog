@@ -86,6 +86,7 @@ _Expected early 4. 2025_
   <li><i class="fa-li fa roadmap-minor-item fa-file-contract"></i>Terms of Use & Privacy Policy</li>
   <li><i class="fa-li fa roadmap-minor-item fa-code"></i>Open-source ML models</li>
   <li><i class="fa-li fa roadmap-minor-item fa-tape"></i>Grades & Circuits</li>
+  <li><i class="fa-li fa roadmap-minor-item fa-filter"></i>Filtering routes</li>
 </ul>
 
 <div class="large-spacer"></div>
@@ -99,7 +100,6 @@ _Expected 6. 2025_
   <li><i class="fa-li fa fa-bookmark"></i>Improved bookmarks</li>
   <div class="spacer"></div>
   <li><i class="fa-li fa roadmap-minor-item fa-info-circle"></i>Notifications</li>
-  <li><i class="fa-li fa roadmap-minor-item fa-filter"></i>Filtering routes</li>
   <li><i class="fa-li fa roadmap-minor-item fa-palette"></i>Improved UI theme</li>
 </ul>
 
