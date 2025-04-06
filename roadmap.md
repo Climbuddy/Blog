@@ -80,7 +80,7 @@ _Expected early 4. 2025_
   <li><i class="fa-li fa fa-plane-arrival"></i>Landing Page</li>
   <li><i class="fa-li fa fa-user-tie"></i>Admin UI & Workflow</li>
   <li><i class="fa-li fa fa-chart-line"></i>User statistics & graphs</li>
-  <li><i class="fa-li fa fa-language"></i>Localization (Czech, German)</li>
+  <li><i class="fa-li fa fa-language"></i>Localization (Czech, German, French)</li>
   <li><i class="fa-li fa fa-filter"></i>Filtering routes</li>
   <div class="spacer"></div>
   <li><i class="fa-li fa roadmap-minor-item fa-info-circle"></i>Movement Tutorial</li>
