@@ -79,15 +79,14 @@ _Expected early 4. 2025_
   <div class="spacer"></div>
   <li><i class="fa-li fa fa-plane-arrival"></i>Landing Page</li>
   <li><i class="fa-li fa fa-user-tie"></i>Admin UI & Workflow</li>
-  <li><i class="fa-li fa fa-chart-line"></i>User statistics & graphs</li>
+  <li><i class="fa-li fa fa-tape"></i>Grade systems & Circuits</li>
   <li><i class="fa-li fa fa-language"></i>Localization (Czech, German, French)</li>
   <li><i class="fa-li fa fa-filter"></i>Filtering routes</li>
   <div class="spacer"></div>
   <li><i class="fa-li fa roadmap-minor-item fa-info-circle"></i>Movement Tutorial</li>
   <li><i class="fa-li fa roadmap-minor-item fa-file-contract"></i>Terms of Use & Privacy Policy</li>
   <li><i class="fa-li fa roadmap-minor-item fa-code"></i>Open-source ML models</li>
-  <li><i class="fa-li fa roadmap-minor-item fa-tape"></i>Grades & Circuits</li>
-  <li><i class="fa-li fa roadmap-minor-item fa-info-circle"></i>Notifications</li>
+  <li><i class="fa-li fa roadmap-minor-item fa-message"></i>Notifications</li>
 </ul>
 
 <div class="large-spacer"></div>
@@ -96,11 +95,10 @@ _Expected early 4. 2025_
 _Expected 6. 2025_
 
 <ul class="fa-ul tight">
-  <li><i class="fa-li fa fa-hand-pointer"></i>Spray wall support</li>
-  <li><i class="fa-li fa fa-chart-line"></i>User progress statistics</li>
-  <li><i class="fa-li fa fa-bookmark"></i>Improved bookmarks</li>
+  <li><i class="fa-li fa fa-users"></i>User Profiles & Friends</li>
+  <li><i class="fa-li fa fa-chart-line"></i>User rating / progress graph</li>
   <div class="spacer"></div>
-  <li><i class="fa-li fa roadmap-minor-item fa-palette"></i>Improved UI theme</li>
+  <li><i class="fa-li fa roadmap-minor-item fa-comment"></i>Route comment section</li>
 </ul>
 
 <div class="large-spacer"></div>
@@ -119,14 +117,14 @@ _Expected end 2025_
 <ul class="fa-ul tight">
   <li><i class="fa-li fa fa-champagne-glasses"></i><strong>Official release!</strong></li>
   <div class="spacer"></div>
+  <li><i class="fa-li fa fa-users"></i>Open registration for gyms</li>
   <li><i class="fa-li fa fa-calendar-days"></i>Competitions & Events</li>
   <li><i class="fa-li fa fa-clock-rotate-left"></i>View older boulders</li>
-  <li><i class="fa-li fa fa-users"></i>Open registration for gyms</li>
+  <li><i class="fa-li fa fa-hand-pointer"></i>Spray wall support</li>
   <div class="spacer"></div>
   <li><i class="fa-li fa roadmap-minor-item fa-code"></i>Open-source frontend</li>
   <li><i class="fa-li fa roadmap-minor-item fa-video"></i>Smooth camera movement</li>
   <li><i class="fa-li fa roadmap-minor-item fa-hand-pointer"></i>User-defined routes</li>
-  <li><i class="fa-li fa roadmap-minor-item fa-user-shield"></i>Gym verification</li>
   <li><i class="fa-li fa roadmap-minor-item fa-star"></i>Achievements</li>
 </ul>
 
