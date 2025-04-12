@@ -49,12 +49,10 @@ _Released 1. 6. 2024_
 
 <div class="large-spacer"></div>
 
-</details>
+<div markdown="1">
 
-<div markdown="1" class="roadmap-current">
-
-<h3 class="tight" id="03">Current <span markdown="1">**v0.3**</span></h3>
-_Released 2. 8. 2024_ · [live on **https://climbuddy.com**](https://climbuddy.com/)
+<h3 class="tight" id="03">Old <span markdown="1">**v0.3**</span></h3>
+_Released 2. 8. 2024_
 
 <ul class="fa-ul tight">
   <li><i class="fa-li fa fa-user-clock"></i>Temporary user</li>
@@ -71,8 +69,12 @@ _Released 2. 8. 2024_ · [live on **https://climbuddy.com**](https://climbuddy.c
 
 <div class="large-spacer"></div>
 
-<h3 class="tight" id="04">Future <span markdown="1">**v0.4**</span></h3>
-_Expected early 4. 2025_
+</details>
+
+<div markdown="1" class="roadmap-current">
+
+<h3 class="tight" id="04"><a href="https://climbuddy.com"  markdown="1">Current <span>**v0.4**</span></a></h3>
+_Released 12. 4. 2025_
 
 <ul class="fa-ul tight">
   <li><i class="fa-li fa fa-users"></i><strong>Beta release (limited registration for gyms)!</strong></li>
@@ -88,6 +90,8 @@ _Expected early 4. 2025_
   <li><i class="fa-li fa roadmap-minor-item fa-code"></i>Open-source ML models</li>
   <li><i class="fa-li fa roadmap-minor-item fa-message"></i>Notifications</li>
 </ul>
+
+</div>
 
 <div class="large-spacer"></div>
 
