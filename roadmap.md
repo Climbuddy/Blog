@@ -103,6 +103,9 @@ _Expected 6. 2025_
   <li><i class="fa-li fa fa-chart-line"></i>User rating / progress graph</li>
   <div class="spacer"></div>
   <li><i class="fa-li fa roadmap-minor-item fa-comment"></i>Route comment section</li>
+  <li><i class="fa-li fa roadmap-minor-item fa-video"></i>Improved camera movement</li>
+  <li><i class="fa-li fa roadmap-minor-item fa-keyboard"></i>Keyboard controls</li>
+  <li><i class="fa-li fa roadmap-minor-item fa-palette"></i>Unified UI theme</li>
 </ul>
 
 <div class="large-spacer"></div>
@@ -127,7 +130,6 @@ _Expected end 2025_
   <li><i class="fa-li fa fa-hand-pointer"></i>Spray wall support</li>
   <div class="spacer"></div>
   <li><i class="fa-li fa roadmap-minor-item fa-code"></i>Open-source frontend</li>
-  <li><i class="fa-li fa roadmap-minor-item fa-video"></i>Smooth camera movement</li>
   <li><i class="fa-li fa roadmap-minor-item fa-hand-pointer"></i>User-defined routes</li>
   <li><i class="fa-li fa roadmap-minor-item fa-star"></i>Achievements</li>
 </ul>
