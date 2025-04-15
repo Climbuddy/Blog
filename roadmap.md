@@ -101,8 +101,9 @@ _Expected 6. 2025_
 <ul class="fa-ul tight">
   <li><i class="fa-li fa fa-users"></i>User Profiles & Friends</li>
   <li><i class="fa-li fa fa-chart-line"></i>User rating / progress graph</li>
+  <li><i class="fa-li fa fa-comment"></i>Comment section</li>
+  <li><i class="fa-li fa fa-ban"></i>Improved content moderation</li>
   <div class="spacer"></div>
-  <li><i class="fa-li fa roadmap-minor-item fa-comment"></i>Route comment section</li>
   <li><i class="fa-li fa roadmap-minor-item fa-video"></i>Improved camera movement</li>
   <li><i class="fa-li fa roadmap-minor-item fa-keyboard"></i>Keyboard controls</li>
   <li><i class="fa-li fa roadmap-minor-item fa-palette"></i>Unified UI theme</li>
