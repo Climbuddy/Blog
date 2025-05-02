@@ -35,15 +35,15 @@ These are the following:
 <figure class="figures-wrapper">
 <div class="figures-container">
   <figure class="center">
-    <img src="../assets/2025-02-chart-activity.webp" alt="">
+    <img src="/assets/2025-02-chart-activity.webp" alt="">
   </figure>
 
   <figure class="center">
-    <img src="../assets/2025-02-chart-popularity.webp" alt="">
+    <img src="/assets/2025-02-chart-popularity.webp" alt="">
   </figure>
 
   <figure class="center">
-    <img src="../assets/2025-02-chart-difficulty.webp" alt="">
+    <img src="/assets/2025-02-chart-difficulty.webp" alt="">
   </figure>
 </div>
 <figcaption>Charts with sample data depicting <strong>User Activity</strong>, <strong>Route Popularity</strong> and <strong>Difficulty Breakdown</strong>.</figcaption>
@@ -59,11 +59,11 @@ That changes now, with the gym overview (i.e. what the user sees when looking at
 <figure class="figures-wrapper">
 <div class="figures-container">
   <figure class="center">
-    <img src="../assets/2025-02-wall-overview-view.webp" alt="">
+    <img src="/assets/2025-02-wall-overview-view.webp" alt="">
   </figure>
 
   <figure class="center">
-    <img src="../assets/2025-02-wall-overview-edit.webp" alt="">
+    <img src="/assets/2025-02-wall-overview-edit.webp" alt="">
   </figure>
 </div>
 <figcaption>Gym preview, viewed as the <strong>user</strong> (left) and editable as the <strong>gym</strong> (right).</figcaption>
@@ -81,15 +81,15 @@ That's why we've added **Czech 🇨🇿** and **German 🇩🇪**, with more com
 <figure class="figures-wrapper">
 <div class="figures-container">
   <figure class="center">
-    <img src="../assets/2025-02-language-pick.webp" alt="">
+    <img src="/assets/2025-02-language-pick.webp" alt="">
   </figure>
 
   <figure class="center">
-    <img src="../assets/2025-02-language-en.webp" alt="">
+    <img src="/assets/2025-02-language-en.webp" alt="">
   </figure>
 
   <figure class="center">
-    <img src="../assets/2025-02-language-cs.webp" alt="">
+    <img src="/assets/2025-02-language-cs.webp" alt="">
   </figure>
 </div>
 <figcaption><strong>Language picker</strong> (left) and the <strong>about section</strong> (middle) <strong>translated to Czech</strong> (right).</figcaption>
@@ -104,11 +104,11 @@ Additionally, we've added a highlight on routes that you are looking at to furth
 <figure class="figures-wrapper">
 <div class="figures-container">
   <figure class="center">
-    <img src="../assets/2025-02-tutorial.webp" alt="">
+    <img src="/assets/2025-02-tutorial.webp" alt="">
   </figure>
 
   <figure class="center">
-    <img src="../assets/2025-02-tutorial-hover.webp" alt="">
+    <img src="/assets/2025-02-tutorial-hover.webp" alt="">
   </figure>
 </div>
 <figcaption><strong>Tutorial bar</strong> (left) and <strong>hover outline</strong> (right).</figcaption>
@@ -123,11 +123,11 @@ These will both be made available with the release of the new update and reflect
 <figure class="figures-wrapper">
 <div class="figures-container">
   <figure class="center">
-    <img src="../assets/2025-02-terms-of-use.webp" alt="">
+    <img src="/assets/2025-02-terms-of-use.webp" alt="">
   </figure>
 
   <figure class="center">
-    <img src="../assets/2025-02-privacy-policy.webp" alt="">
+    <img src="/assets/2025-02-privacy-policy.webp" alt="">
   </figure>
 </div>
 <figcaption><strong>Terms of Use</strong> (left) and <strong>Privacy Policy</strong> (right).</figcaption>

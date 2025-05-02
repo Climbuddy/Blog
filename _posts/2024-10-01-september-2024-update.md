@@ -4,7 +4,7 @@ title:  "September 2024 Update"
 category: update
 ---
 
-The sept-embers[^1] of fire dance as the Climbuddy team delivers another update post!
+The Sept-embers[^1] of fire dance as the Climbuddy team delivers another update post!
 
 We've used the information from the last post's benchmarks to implement a better segmentation approach using a combination of YOLO detection and SAM segmentation.
 In addition, the mesh segmentation is now faster (long live parallelization) and much more accurate due to slight changes to the algorithm. 🎉
@@ -31,7 +31,7 @@ The results were pretty great!
 <figure class="figures-wrapper">
 <div class="figures-container">
   <figure class="center">
-    <img src="../assets/2024-09-detection-results.webp" alt="">
+    <img src="/assets/2024-09-detection-results.webp" alt="">
   </figure>
 </div>
 <figcaption>Training results for the YOLO hold detection network.</figcaption>
@@ -40,38 +40,38 @@ The results were pretty great!
 <figure class="figures-wrapper">
 <div class="figures-container">
   <figure class="center">
-    <img src="../assets/2024-09-original-1fOzzJRsxD8ioAg2.webp" alt="">
+    <img src="/assets/2024-09-original-1fOzzJRsxD8ioAg2.webp" alt="">
   </figure>
 
   <figure class="center">
-    <img src="../assets/2024-09-1fOzzJRsxD8ioAg2.webp" alt="">
+    <img src="/assets/2024-09-1fOzzJRsxD8ioAg2.webp" alt="">
   </figure>
 
 
   <figure class="center">
-    <img src="../assets/2024-09-original-5a1oHc3GEAEQML4l.webp" alt="">
+    <img src="/assets/2024-09-original-5a1oHc3GEAEQML4l.webp" alt="">
   </figure>
 
   <figure class="center">
-    <img src="../assets/2024-09-5a1oHc3GEAEQML4l.webp" alt="">
+    <img src="/assets/2024-09-5a1oHc3GEAEQML4l.webp" alt="">
   </figure>
 </div>
 <div class="figures-container">
   <figure class="center">
-    <img src="../assets/2024-09-original-7Ycx7pElrp9WgMI7.webp" alt="">
+    <img src="/assets/2024-09-original-7Ycx7pElrp9WgMI7.webp" alt="">
   </figure>
 
   <figure class="center">
-    <img src="../assets/2024-09-7Ycx7pElrp9WgMI7.webp" alt="">
+    <img src="/assets/2024-09-7Ycx7pElrp9WgMI7.webp" alt="">
   </figure>
 
 
   <figure class="center">
-    <img src="../assets/2024-09-original-06uL6rf1ueT69LK1.webp" alt="">
+    <img src="/assets/2024-09-original-06uL6rf1ueT69LK1.webp" alt="">
   </figure>
 
   <figure class="center">
-    <img src="../assets/2024-09-06uL6rf1ueT69LK1.webp" alt="">
+    <img src="/assets/2024-09-06uL6rf1ueT69LK1.webp" alt="">
   </figure>
 </div>
 <figcaption>Image segmentation of new boulders using the YOLO detector + SAM segmentation.</figcaption>
@@ -91,17 +91,17 @@ We've refined the mesh segmentation algorithm in a number of ways, including:
 <figure class="figures-wrapper">
 <div class="figures-container">
   <figure class="center">
-    <img src="../assets/2024-09-segmentation-1.webp" alt="">
+    <img src="/assets/2024-09-segmentation-1.webp" alt="">
   </figure>
 </div>
 <div class="figures-container">
   <figure class="center">
-    <img src="../assets/2024-09-segmentation-2.webp" alt="">
+    <img src="/assets/2024-09-segmentation-2.webp" alt="">
   </figure>
 </div>
 <div class="figures-container">
   <figure class="center">
-    <img src="../assets/2024-09-segmentation-3.webp" alt="">
+    <img src="/assets/2024-09-segmentation-3.webp" alt="">
   </figure>
 </div>
 <figcaption>The mesh segmentation algorithm, step-by-step (raw mesh to textured mesh).</figcaption>
