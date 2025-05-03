@@ -15,6 +15,7 @@ If there is anything you're interested in regarding Climbuddy (or anything else 
 
 | Update/Version | Summary |
 | :-: | :--| :-- |
+| [**`2025-04`**](/april-2025-update/) | Comments, followers, user profiles. |
 | [**`v0.4` 🎉**](/roadmap#04) | **Beta release** -- landing page, grades & circuits, route filtering. |
 | [**`2025-03`**](/march-2025-update/) | Landing page, proposal UI. |
 | [**`2025-02`**](/february-2025-update/) | UI improvements, stable worker. |

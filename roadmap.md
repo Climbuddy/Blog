@@ -99,14 +99,15 @@ _Released 12. 4. 2025_
 _Expected 6. 2025_
 
 <ul class="fa-ul tight">
-  <li><i class="fa-li fa fa-users"></i>User Profiles & Friends</li>
-  <li><i class="fa-li fa fa-chart-line"></i>User rating / progress graph</li>
+  <li><i class="fa-li fa fa-users"></i>User Profiles</li>
+  <li><i class="fa-li fa fa-users"></i>Following / Followers</li>
   <li><i class="fa-li fa fa-comment"></i>Comment section</li>
   <li><i class="fa-li fa fa-ban"></i>Improved content moderation</li>
   <div class="spacer"></div>
   <li><i class="fa-li fa roadmap-minor-item fa-video"></i>Improved camera movement</li>
   <li><i class="fa-li fa roadmap-minor-item fa-keyboard"></i>Keyboard controls</li>
   <li><i class="fa-li fa roadmap-minor-item fa-palette"></i>Unified UI theme</li>
+  <li><i class="fa-li fa roadmap-minor-item fa-info-circle"></i>Improved Tutorial</li>
 </ul>
 
 <div class="large-spacer"></div>
@@ -125,6 +126,7 @@ _Expected end 2025_
 <ul class="fa-ul tight">
   <li><i class="fa-li fa fa-champagne-glasses"></i><strong>Official release!</strong></li>
   <div class="spacer"></div>
+  <li><i class="fa-li fa fa-chart-line"></i>User rating / progress graph</li>
   <li><i class="fa-li fa fa-users"></i>Open registration for gyms</li>
   <li><i class="fa-li fa fa-calendar-days"></i>Competitions & Events</li>
   <li><i class="fa-li fa fa-clock-rotate-left"></i>View older boulders</li>
