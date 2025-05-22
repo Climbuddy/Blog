@@ -111,6 +111,7 @@ _Expected 6. 2025_
   <li><i class="fa-li fa roadmap-minor-item fa-keyboard"></i>Keyboard controls</li>
   <li><i class="fa-li fa roadmap-minor-item fa-palette"></i>Unified UI theme</li>
   <li><i class="fa-li fa roadmap-minor-item fa-info-circle"></i>Improved tutorial</li>
+  <li><i class="fa-li fa roadmap-minor-item fa-camera"></i>Screenshot button</li>
 </ul>
 
 <div class="large-spacer"></div>
